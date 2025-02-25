@@ -2,10 +2,6 @@
 
 Welcome to my coding journey through the **2024 Daily Programming Challenge**! 🚀
 
-## 📅 Challenge Highlights
-- **30 Days of Code:** A month-long adventure in coding, from September 1st to September 30th, 2024.
-- **Daily Tasks:** New and exciting programming challenges every single day.
-
 ## 🛠️ My Coding Toolbox
 - **Primary Languages:** Python, C, Java
 - **Focus Areas:** 
